@@ -1,0 +1,162 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+  color: white;
+}
+
+.site-container {
+  min-height: 100vh;
+}
+
+.color-nav {
+  background-color: darkorange;
+}
+
+main {
+  flex: 1;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.card-title-color {
+  color: black;
+}
+
+.card-title-color:hover {
+  color: blue;
+}
+
+.card-text-color {
+  color: black;
+}
+
+.btn-primary,
+.btn-outline-primary {
+  background-color: darkorange;
+  border: none;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.rating span {
+  color: darkorange;
+}
+
+.product {
+  border: 1px solid darkorange;
+  margin: 1rem;
+}
+
+.product img {
+  width: 100%;
+  max-width: 400px;
+}
+
+.product-info {
+  padding: 1rem;
+}
+
+.img-center {
+  text-align: center;
+}
+
+.img-large {
+  max-width: 100%;
+}
+
+.cart {
+  font-size: 40px;
+  color: black;
+}
+
+.img-thumbnail {
+  height: 150px;
+}
+
+.small-container {
+  max-width: 500px;
+}
+
+.user {
+  display: flex;
+  align-items: center;
+}
+
+.user-icon {
+  font-size: 30px;
+}
+
+.checkout-steps > div {
+  border-bottom: 0.2rem solid lightgray;
+  color: lightgray;
+}
+
+.checkout-steps > div.active {
+  border-bottom: 0.2rem solid darkorange;
+  color: darkorange;
+}
+
+.cart-fix {
+  display: flex;
+  align-items: center;
+}
+
+.subtotal {
+  max-width: 440px;
+}
+
+/* SIDEBAR */
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.side-navbar {
+  width: 240px;
+  height: 100%;
+  position: absolute;
+  left: -300px;
+  background-color: darkorange;
+  transition: 0.5s;
+}
+
+.site-container {
+  transition: 0.4s;
+}
+
+.active-cont {
+  margin-left: 240px;
+}
+
+.active-nav {
+  left: 0;
+}
+
+.sidebar-btn {
+  background-color: darkorange;
+  border: none;
+}
+
+.text-bold {
+  font-weight: bold;
+  color: darkorange;
+}
+
+.white {
+  color: white;
+}
+
+.none .rating span {
+  color: blue;
+}
