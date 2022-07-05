@@ -27,3 +27,5 @@
 9. The password for admin and user is the same: 123456, enjoy the application.
 
 ![This is an image](https://github.com/nenadvasilic/basketball_shop/blob/main/frontend/public/images/Basketball%20Shop.jpg)
+
+![This is an image](https://github.com/nenadvasilic/basketball_shop/blob/main/frontend/public/images/Nikola%20Jokic.jpg)
