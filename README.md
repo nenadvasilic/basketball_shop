@@ -15,3 +15,11 @@
 - cd frontend
 - npm install
 - npm start
+
+6. After that you will see the application in your windows browser automatically on: http://localhost:3000/, but it will be empty without equipment for sale.
+
+7. Then run on your browser: http://localhost:5000/api/seed, and you will get: 4 products, 1 admin & 1 user.
+
+8. Go back to: http://localhost:3000/, and refresh the page, after that application is ready to use.
+
+9. The password for admin and user is the same: 123456, enjoy the application.
