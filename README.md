@@ -29,3 +29,5 @@
 ![This is an image](https://github.com/nenadvasilic/basketball_shop/blob/main/frontend/public/images/Basketball%20Shop.jpg)
 
 ![This is an image](https://github.com/nenadvasilic/basketball_shop/blob/main/frontend/public/images/Nikola%20Jokic.jpg)
+
+![This is an image](https://github.com/nenadvasilic/basketball_shop/blob/main/frontend/public/images/Search.jpg)
