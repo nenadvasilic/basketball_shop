@@ -23,3 +23,5 @@
 8. Go back to: http://localhost:3000/, and refresh the page, after that application is ready to use.
 
 9. The password for admin and user is the same: 123456, enjoy the application.
+
+![alt text](https://github.com/nenadvasilic/basketball_shop/blob/main/frontend/public/images/Basketball%20Shop.jpg)
